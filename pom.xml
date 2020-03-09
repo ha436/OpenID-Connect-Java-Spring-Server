@@ -27,7 +27,7 @@
 		<groupId>org.sonatype.oss</groupId>
 		<artifactId>oss-parent</artifactId>
 		<version>9</version>
-		<relativePath />
+		<relativePath/>
 	</parent>
 	<licenses>
 		<license>
@@ -168,7 +168,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<execute />
+										<execute/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
@@ -411,7 +411,7 @@
 			<dependency>
 				<groupId>javax.servlet.jsp</groupId>
 				<artifactId>jsp-api</artifactId>
-				<version>2.1</version>
+				<version>2.2</version>
 				<scope>provided</scope>
 			</dependency>
 
